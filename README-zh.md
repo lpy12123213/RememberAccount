@@ -8,6 +8,12 @@
 
 在命令行中输入`python main.py`
 
+你可以在cmd中输入
+
+```powershell
+pip install -r requirements.txt
+```
+
 ## 注意
 
 请记好您在第一个输入框中输入的密码，若失去**无法找回**数据
