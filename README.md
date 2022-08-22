@@ -4,7 +4,7 @@
 
 ## Before using
 
-Install all contents in `requirements.TXT`
+Install all contents in `requirements.txt`
 
 ## Start using
 
