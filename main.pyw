@@ -317,7 +317,7 @@ class Ui_Widget(object):
         self.pswList.setKey(self.pswToAes)
         self.youNeed = self.pswList.encryptAll()
         for i in self.youNeed:
-            self.ztl.insertHtml(
+            self.ztl.append(
                 f"名字为：{i['name']}，密码为：{i['psw']}，描述为：{i['desc']}\n")
 
 
