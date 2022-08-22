@@ -6,6 +6,11 @@
 
 Install all contents in `requirements.txt`
 
+Write down
+```powershell
+pip install -r requirements.txt
+```
+
 ## Start using
 
 On the command line, enter `Python main.py`
